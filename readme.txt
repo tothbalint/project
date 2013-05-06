@@ -23,4 +23,4 @@ Video: 1920x1080, 50 fps
 Add another line.
 
 
-All rights reserved.
+All rights reserved. 2013.05.05
